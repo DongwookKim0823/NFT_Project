@@ -1,0 +1,39 @@
+{
+  "name": "Malrangmalrang #709",
+  "description": "This is Malrangmalrang NFT collection made by student who study computer science.",
+  "image": "ipfs://NewUriToReplace/709.png",
+  "dna": "b54b98d7c890c5d807c87e029ea30cd9ad454797",
+  "edition": 709,
+  "date": 1645518471978,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "body2"
+    },
+    {
+      "trait_type": "Face",
+      "value": "face"
+    },
+    {
+      "trait_type": "Cheek",
+      "value": "cheek8"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "eye7"
+    },
+    {
+      "trait_type": "Eyebrow",
+      "value": "eyebrow1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mouth4"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
